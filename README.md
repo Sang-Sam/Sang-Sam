@@ -20,7 +20,7 @@
 `React` • `HTML-CSS`
 
 **Backend:**  
-`FastAPI` • `Node.js` • `Spring Boot`
+`FastAPI` • `Node.js`
 
 **Database:**  
 `MySQL` • `MongoDB` 
